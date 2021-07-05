@@ -16,23 +16,23 @@ opposite its direction.
 <hr />
 
 ### Horizontal Screen
-<img src="Screenshot/horizontal.jpg" width="270" height="535">
+<img src="Screenshot/horizontal.jpg" width="535" height="270">
 <hr />
 
 ### Tap on B1 
-<img src="Screenshot/towards B1.jpg" width="270" height="535">
+<img src="Screenshot/towards B1.jpg" width="535" height="270">
 <hr />
 
 ### Double tap on B1
-<img src="Screenshot/opposite to B1.jpg" width="270" height="535">
+<img src="Screenshot/opposite to B1.jpg" width="535" height="270">
 <hr />
 
 ### Tap on B2 
-<img src="Screenshot/towards B2.jpg" width="270" height="535">
+<img src="Screenshot/towards B2.jpg" width="535" height="270">
 <hr />
 
 ### Double tap on B2
-<img src="Screenshot/opposite to B2.jpg" width="270" height="535">
+<img src="Screenshot/opposite to B2.jpg" width="535" height="270">
 <hr />
 
 ### App icon 
